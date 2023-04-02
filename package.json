@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-hws",
+  "version": "1.0.0",
+  "description": "Performed by Roman Snitsarenko",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Roman Snitsarenko",
+  "repository": "https://github.com/OrdDreamer/goit-node-hws",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.4"
+  }
+}
